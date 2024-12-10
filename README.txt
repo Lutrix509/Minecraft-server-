@@ -1,10 +1,10 @@
 On terminal
 
 
-Sudo apt update 
+sudo apt update 
 
 
-Sudo apt install openjdk-8-jdk -y
+sudo apt install openjdk-8-jdk -y
 
 
 /usr/lib/jvm/java-8-openjdk-amd64/bin/java
